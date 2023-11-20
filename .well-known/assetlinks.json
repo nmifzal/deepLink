@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.thepenindia.mkstalin",
+    "sha1_cert_fingerprints":
+    ["92:D5:69:B5:FC:BD:E8:44:E8:10:92:E9:CE:20:39:78:33:2A:90:FF"]
+  }
+}]
